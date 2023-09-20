@@ -6,6 +6,7 @@
 
 			<class name="testClasses.FirstTest" />
 			<class name="testClasses.SecondTest" />
+			<class name="testClasses.ThirdTest" />
 		</classes>
 	</test> <!--
 	Test -->
